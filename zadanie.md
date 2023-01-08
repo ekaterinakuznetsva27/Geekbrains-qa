@@ -21,3 +21,4 @@ class Program
     }
   }
 }
+![image_2022-12-25_16-09-02](https://user-images.githubusercontent.com/116455284/211215071-accd0fb9-19ab-4e5c-a2b8-ece131163168.png)
